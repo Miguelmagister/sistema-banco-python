@@ -23,6 +23,7 @@ def main():
             print("# Falta programar: Retirar dinero (Compañero B)")
         elif opcion == 4:
             print("Tu saldo actual es: $1500")
+            print("Saldo : Disponible")
 
         elif opcion == 5:
             print("Saliendo del sistema...")
